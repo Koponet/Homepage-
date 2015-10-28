@@ -1,3 +1,4 @@
+<html>
 <head>
 <style>
 #header {
@@ -12,4 +13,5 @@
 <div id="header">
 <h1>Koponet</h1>
 </div>
-</body
+</body>
+</html>
