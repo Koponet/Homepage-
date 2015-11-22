@@ -1,0 +1,19 @@
+<head>
+<title>
+chaout
+</title>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+</style>
+</head>
+<body>
+<div id="header">
+<img src=""
+style="width:304px;height:228px;">
+</div>
+</body>
