@@ -1,0 +1,30 @@
+<head>
+<title>
+chaout
+</title>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+</style>
+</head>
+<body>
+<div id="header">
+<img src=""
+style="width:304px;height:228px;">
+</div>
+<i>
+<p1>
+ברוכ''ים הבאים לצאטאאוט
+</p1>
+<p2>
+צאטאאוט מאפשר לך לנהל את חיי החברה שלך
+</p2>
+<p3>
+דרך צאטאאוט תוכל להיפגש עם החברים שלך בכל מקום בילוי בסביבתך ולהראות לעולם שנהנית
+</p3>
+</i>
+</body>
